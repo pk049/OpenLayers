@@ -1,0 +1,7 @@
+.outer:focus{
+    outline:none;
+}
+
+.outer{
+    outline: none;
+}
